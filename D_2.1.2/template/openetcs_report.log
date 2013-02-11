@@ -1,0 +1,587 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdftex 2013.1.4)  7 FEB 2013 15:01
+entering extended mode
+**C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/openetcs_report.cls
+(C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/openetcs_report.cls
+! Undefined control sequence.
+l.55 \NeedsTeXFormat
+                    {LaTeX2e}
+? 
+! Undefined control sequence.
+l.56 \ProvidesClass
+                   {openetcs}
+? 
+! Undefined control sequence.
+l.67 \newcommand
+                {\IsLicensedUnderCC}[1]{#1}
+? 
+! Undefined control sequence.
+l.67 \newcommand{\IsLicensedUnderCC
+                                   }[1]{#1}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.67 \newcommand{\IsLicensedUnderCC}[1]{#
+                                         1}
+? 
+! Undefined control sequence.
+l.68 \DeclareOption
+                   {nocc}{\renewcommand{\IsLicensedUnderCC}[1]{ }}
+? 
+! Undefined control sequence.
+l.68 \DeclareOption{nocc}{\renewcommand
+                                       {\IsLicensedUnderCC}[1]{ }}
+? 
+! Undefined control sequence.
+l.68 ...ion{nocc}{\renewcommand{\IsLicensedUnderCC
+                                                  }[1]{ }}
+? 
+! Undefined control sequence.
+l.69 \DeclareOption
+                   *{\PassOptionsToClass{\CurrentOption}{report}}
+? 
+! Undefined control sequence.
+l.69 \DeclareOption*{\PassOptionsToClass
+                                        {\CurrentOption}{report}}
+? 
+! Undefined control sequence.
+l.69 ...Option*{\PassOptionsToClass{\CurrentOption
+                                                  }{report}}
+? 
+! Undefined control sequence.
+l.70 \ProcessOptions
+                    \relax
+? 
+! Undefined control sequence.
+l.71 \LoadClass
+               [11pt,twoside]{report}
+? 
+! Undefined control sequence.
+l.72 \RequirePackage
+                    {graphicx,color,caption,longtable}
+? 
+! Undefined control sequence.
+l.73 \RequirePackage
+                    {dcolumn}
+? 
+! Undefined control sequence.
+l.74 \RequirePackage
+                    {natbib}
+? 
+! Undefined control sequence.
+l.75 \renewcommand
+                  {\bibfont}{\fontsize{10pt}{12pt}\selectfont}
+? 
+! Undefined control sequence.
+l.75 \renewcommand{\bibfont
+                           }{\fontsize{10pt}{12pt}\selectfont}
+? 
+! Undefined control sequence.
+l.75 \renewcommand{\bibfont}{\fontsize
+                                      {10pt}{12pt}\selectfont}
+? 
+! Undefined control sequence.
+l.75 ...\bibfont}{\fontsize{10pt}{12pt}\selectfont
+                                                  }
+? 
+! Undefined control sequence.
+l.76 \setlength
+               {\bibhang}{0.5in}
+? 
+! Undefined control sequence.
+l.76 \setlength{\bibhang
+                        }{0.5in}
+? 
+! Undefined control sequence.
+l.77 \setlength
+               {\bibsep}{12pt}
+? 
+! Undefined control sequence.
+l.77 \setlength{\bibsep
+                       }{12pt}
+? 
+! Undefined control sequence.
+l.78 \RequirePackage
+                    {amsmath}
+? 
+! Undefined control sequence.
+l.82 \RequirePackage
+                    {microtype}
+? 
+! Undefined control sequence.
+l.90 \normalsize
+                
+? 
+! Undefined control sequence.
+l.97 \usepackage
+                [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.98 \usepackage
+                {txfonts}
+? 
+! Undefined control sequence.
+l.126 \RequirePackage
+                     [a4paper, top=1in, bottom=0.7in,
+? 
+! Undefined control sequence.
+l.128 \setlength
+                {\parindent}{0pt}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.128 \setlength{\parindent}
+                            {0pt}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.128 \setlength{\parindent}
+                            {0pt}
+? 
+! Undefined control sequence.
+l.129 \setlength
+                {\parskip}{\baselineskip}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.129 \setlength{\parskip}
+                          {\baselineskip}
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.129 \setlength{\parskip}
+                          {\baselineskip}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.129 \setlength{\parskip}{\baselineskip}
+                                         
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.129 \setlength{\parskip}{\baselineskip}
+                                         
+? 
+! Undefined control sequence.
+l.130 \setlength
+                \labelwidth{1em}
+? 
+! Undefined control sequence.
+l.130 \setlength\labelwidth
+                           {1em}
+? 
+! Undefined control sequence.
+l.131 \setlength
+                \leftmargini\z@
+? 
+! Undefined control sequence.
+l.131 \setlength\leftmargini
+                            \z@
+? 
+! Undefined control sequence.
+l.131 \setlength\leftmargini\z
+                              @
+? 
+! Undefined control sequence.
+l.132 \addtolength
+                  \leftmargini\labelwidth
+? 
+! Undefined control sequence.
+l.132 \addtolength\leftmargini
+                              \labelwidth
+? 
+! Undefined control sequence.
+l.132 \addtolength\leftmargini\labelwidth
+                                         
+? 
+! Undefined control sequence.
+l.133 \addtolength
+                  \leftmargini\labelsep
+? 
+! Undefined control sequence.
+l.133 \addtolength\leftmargini
+                              \labelsep
+? 
+! Undefined control sequence.
+l.133 \addtolength\leftmargini\labelsep
+                                       
+? 
+! Undefined control sequence.
+l.155 \RequirePackage
+                     {fancyhdr}
+? 
+! Undefined control sequence.
+l.156 \renewcommand
+                   {\headrulewidth}{0.5pt}
+? 
+! Undefined control sequence.
+l.156 \renewcommand{\headrulewidth
+                                  }{0.5pt}
+? 
+! Undefined control sequence.
+l.157 \renewcommand
+                   {\footrulewidth}{0pt}
+? 
+! Undefined control sequence.
+l.157 \renewcommand{\footrulewidth
+                                  }{0pt}
+? 
+! Undefined control sequence.
+l.158 \fancyhfoffset
+                    {35pt}
+? 
+! Undefined control sequence.
+l.159 \pagestyle
+                {fancy}
+? 
+! Undefined control sequence.
+l.160 \lhead
+            {\textsf{\textbf{\footnotesize\@reportnum}}}
+? 
+! Undefined control sequence.
+l.160 \lhead{\textsf
+                    {\textbf{\footnotesize\@reportnum}}}
+? 
+! Undefined control sequence.
+l.160 \lhead{\textsf{\textbf
+                            {\footnotesize\@reportnum}}}
+? 
+! Undefined control sequence.
+l.160 \lhead{\textsf{\textbf{\footnotesize
+                                          \@reportnum}}}
+? 
+! Use of \@ doesn't match its definition.
+l.160 \lhead{\textsf{\textbf{\footnotesize\@r
+                                             eportnum}}}
+? 
+! Undefined control sequence.
+l.161 \rhead
+            {\textsf{\textbf{\footnotesize\thepage}}}
+? 
+! Undefined control sequence.
+l.161 \rhead{\textsf
+                    {\textbf{\footnotesize\thepage}}}
+? 
+! Undefined control sequence.
+l.161 \rhead{\textsf{\textbf
+                            {\footnotesize\thepage}}}
+? 
+! Undefined control sequence.
+l.161 \rhead{\textsf{\textbf{\footnotesize
+                                          \thepage}}}
+? 
+! Undefined control sequence.
+l.161 \rhead{\textsf{\textbf{\footnotesize\thepage
+                                                  }}}
+? 
+! Undefined control sequence.
+l.162 \chead
+            {}
+? 
+! Undefined control sequence.
+l.163 \lfoot
+            {}
+? 
+! Undefined control sequence.
+l.164 \cfoot
+            {\color{blue}\textsf{\textbf{\textit{openETCS}}}\color{black}\Is...
+
+? 
+! Undefined control sequence.
+l.164 \cfoot{\color
+                   {blue}\textsf{\textbf{\textit{openETCS}}}\color{black}\Is...
+
+? 
+! Undefined control sequence.
+l.164 \cfoot{\color{blue}\textsf
+                                {\textbf{\textit{openETCS}}}\color{black}\Is...
+
+? 
+! Undefined control sequence.
+l.164 \cfoot{\color{blue}\textsf{\textbf
+                                        {\textit{openETCS}}}\color{black}\Is...
+
+? 
+! Undefined control sequence.
+l.164 \cfoot{\color{blue}\textsf{\textbf{\textit
+                                                {openETCS}}}\color{black}\Is...
+
+? 
+! Undefined control sequence.
+l.164 ...\textsf{\textbf{\textit{openETCS}}}\color
+                                                  {black}\IsLicensedUnderCC{...
+
+? 
+! Undefined control sequence.
+l.164 ...penETCS}}}\color{black}\IsLicensedUnderCC
+                                                  { - \includegraphics[width...
+
+? 
+! Undefined control sequence.
+l.164 ...ck}\IsLicensedUnderCC{ - \includegraphics
+                                                  [width=3em]{ccbysa.png}}}
+? 
+! Undefined control sequence.
+l.165 \rfoot
+            {}
+? 
+! Use of \@ doesn't match its definition.
+l.167 \@f
+         rontmatterfalse
+? 
+! Use of \@ doesn't match its definition.
+l.169 \@a
+         ppendixfalse
+? 
+! Undefined control sequence.
+l.199 \newcommand
+                 {\subtitle}[1]{\gdef\@subtitle{#1}}
+? 
+! Undefined control sequence.
+l.199 \newcommand{\subtitle
+                           }[1]{\gdef\@subtitle{#1}}
+? 
+! Illegal parameter number in definition of \@.
+<to be read again> 
+                   1
+l.199 \newcommand{\subtitle}[1]{\gdef\@subtitle{#1
+                                                  }}
+? 
+! Undefined control sequence.
+l.201 \newcommand
+                 {\xandlist}[4]{\@andlista{{#1}{#2}{#3}}#4\and\and}
+? 
+! Undefined control sequence.
+l.201 \newcommand{\xandlist
+                           }[4]{\@andlista{{#1}{#2}{#3}}#4\and\and}
+? 
+! Use of \@ doesn't match its definition.
+l.201 \newcommand{\xandlist}[4]{\@a
+                                   ndlista{{#1}{#2}{#3}}#4\and\and}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.201 \newcommand{\xandlist}[4]{\@andlista{{#
+                                             1}{#2}{#3}}#4\and\and}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.201 \newcommand{\xandlist}[4]{\@andlista{{#1}{#
+                                                 2}{#3}}#4\and\and}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.201 ...mmand{\xandlist}[4]{\@andlista{{#1}{#2}{#
+                                                  3}}#4\and\and}
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.201 ...d{\xandlist}[4]{\@andlista{{#1}{#2}{#3}}#
+                                                  4\and\and}
+? 
+! Undefined control sequence.
+l.201 ...ndlist}[4]{\@andlista{{#1}{#2}{#3}}#4\and
+                                                  \and}
+? 
+! Undefined control sequence.
+l.201 ...st}[4]{\@andlista{{#1}{#2}{#3}}#4\and\and
+                                                  }
+? 
+! Undefined control sequence.
+l.211 \newcommand
+                 {\nxandlist}[4]{%
+? 
+! Undefined control sequence.
+l.211 \newcommand{\nxandlist
+                            }[4]{%
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   ##
+l.212   \def\@andlistc##
+                        1{\toks@\@xp{\the\toks@##1}}%
+? 
+! Parameters must be numbered consecutively.
+<to be read again> 
+                   1
+l.212   \def\@andlistc##1
+                         {\toks@\@xp{\the\toks@##1}}%
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   @
+l.213   \toks@
+              {\toks@\@emptytoks \@andlista{{#1}{#2}{#3}}}%
+? 
+! Missing { inserted.
+<to be read again> 
+                   @
+l.213   \toks@
+              {\toks@\@emptytoks \@andlista{{#1}{#2}{#3}}}%
+? 
+! Undefined control sequence.
+l.218 \newcommand
+                 {\andify}{%
+? 
+! Undefined control sequence.
+l.218 \newcommand{\andify
+                         }{%
+? 
+! Undefined control sequence.
+l.219   \nxandlist
+                  {\unskip, }{\unskip{} \@@and~}{\unskip, \@@and~}}
+? 
+\@=\toks12
+! Undefined control sequence.
+l.248 \newcommand
+                 {\coverart}[2][]{%
+? 
+! Undefined control sequence.
+l.248 \newcommand{\coverart
+                           }[2][]{%
+? 
+! Illegal parameter number in definition of \@.
+<to be read again> 
+                   1
+l.249   \def\@tempa{#1
+                      }%
+? 
+! Illegal parameter number in definition of \@.
+<to be read again> 
+                   1
+l.252 ...f\@coverart{\centering\includegraphics[#1
+                                                  ]{#2}}\fi}
+? 
+! Illegal parameter number in definition of \@.
+<to be read again> 
+                   2
+l.252 ...overart{\centering\includegraphics[#1]{#2
+                                                  }}\fi}
+? 
+\abstractbox=\box16
+! Undefined control sequence.
+l.268 \renewenvironment
+                       {abstract}{%
+? 
+! Undefined control sequence.
+l.270     \normalfont
+                     
+? 
+! Undefined control sequence.
+l.271     \list
+               {}{\labelwidth\z@
+? 
+! Undefined control sequence.
+l.271     \list{}{\labelwidth
+                             \z@
+? 
+! Undefined control sequence.
+l.271     \list{}{\labelwidth\z
+                               @
+? 
+! Undefined control sequence.
+l.272       \leftmargin
+                       \z@ \rightmargin\leftmargin
+? 
+! Undefined control sequence.
+l.272       \leftmargin\z
+                         @ \rightmargin\leftmargin
+? 
+! Undefined control sequence.
+l.272       \leftmargin\z@ \rightmargin
+                                       \leftmargin
+? 
+! Undefined control sequence.
+l.272       \leftmargin\z@ \rightmargin\leftmargin
+                                                  
+? 
+! Undefined control sequence.
+l.273       \listparindent
+                          \z@ \itemindent\z@
+? 
+! Undefined control sequence.
+l.273       \listparindent\z
+                            @ \itemindent\z@
+? 
+! Undefined control sequence.
+l.273       \listparindent\z@ \itemindent
+                                         \z@
+? 
+! Undefined control sequence.
+l.273       \listparindent\z@ \itemindent\z
+                                           @
+? 
+! Undefined control sequence.
+l.274       \parsep
+                   16\p@ \topsep\z@
+? 
+! Undefined control sequence.
+l.274       \parsep16\p
+                       @ \topsep\z@
+? 
+! Undefined control sequence.
+l.274       \parsep16\p@ \topsep
+                                \z@
+? 
+! Undefined control sequence.
+l.274       \parsep16\p@ \topsep\z
+                                  @
+? 
+! Undefined control sequence.
+l.277     \item[\hskip\labelsep
+                               \bfseries Abstract:]%
+? 
+! Undefined control sequence.
+l.277     \item[\hskip\labelsep\bfseries
+                                         Abstract:]%
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   A
+l.277     \item[\hskip\labelsep\bfseries A
+                                          bstract:]%
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   A
+l.277     \item[\hskip\labelsep\bfseries A
+                                          bstract:]%
+? 
+! Undefined control sequence.
+l.279  \endlist
+               \egroup}
+? 
+! Undefined control sequence.
+l.298 \newenvironment
+                     {@coverlist}{\begin{list}{}{%
+? 
+! Undefined control sequence.
+l.298 \newenvironment{@coverlist}{\begin
+                                        {list}{}{%
+? 
+! Undefined control sequence.
+l.299       \leftmargin
+                       40\p@\rightmargin-85\p@%
+? 
+! Undefined control sequence.
+l.299       \leftmargin40\p
+                           @\rightmargin-85\p@%
+? 
+! Undefined control sequence.
+l.299       \leftmargin40\p@\rightmargin
+                                        -85\p@%
+? 
+! Undefined control sequence.
+l.299       \leftmargin40\p@\rightmargin-85\p
+                                             @%
+? 
+! Undefined control sequence.
+l.300       \topsep
+                   \z@\partopsep\z@\labelwidth\z@\labelsep\z@}\item{}}{%
+? 
+! Emergency stop.
+l.300       \topsep
+                   \z@\partopsep\z@\labelwidth\z@\labelsep\z@}\item{}}{%
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,4542 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.4)  11 FEB 2013 14:25
+entering extended mode
+**openETCS_CENELEC-compliance_WP2_AEbt_mpo.tex
+
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\template/openetcs_report.cls
+
+LaTeX Warning: You have requested document class `template/openetcs_report',
+               but the document class provides `openetcs'.
+
+Document Class: openetcs 2012/08/03 v0.1 Typesetting Technical Information Repo
+rts of openETCS project based on ERDC class v1.1
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@indent=\dimen108
+\caption@parindent=\dimen109
+\caption@hangindent=\dimen110
+)
+\c@ContinuedFloat=\count89
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count90
+\LTcapwidth=\dimen111
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count91
+\LT@rows=\count92
+\c@LT@tables=\count93
+\c@LT@chunks=\count94
+\LT@p@ftn=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen112
+\extrarowheight=\dimen113
+\NC@list=\toks16
+\extratabsurround=\skip47
+\backup@length=\skip48
+))
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count95
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen114
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+Package: microtype 2010/01/10 v2.4 Micro-typography with pdfTeX (RS)
+\MT@toks=\toks22
+\MT@count=\count108
+LaTeX Info: Redefining \lsstyle on input line 1597.
+LaTeX Info: Redefining \lslig on input line 1597.
+\MT@outer@space=\skip54
+LaTeX Info: Redefining \textls on input line 1605.
+\MT@outer@kern=\dimen123
+LaTeX Info: Redefining \textmicrotypecontext on input line 2156.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count109
+\Gm@cntv=\count110
+\c@Gm@tempcnt=\count111
+\Gm@bindingoffset=\dimen124
+\Gm@wd@mp=\dimen125
+\Gm@odd@mp=\dimen126
+\Gm@even@mp=\dimen127
+\Gm@layoutwidth=\dimen128
+\Gm@layoutheight=\dimen129
+\Gm@layouthoffset=\dimen130
+\Gm@layoutvoffset=\dimen131
+\Gm@dimlist=\toks23
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip55
+\f@ncyO@elh=\skip56
+\f@ncyO@erh=\skip57
+\f@ncyO@olh=\skip58
+\f@ncyO@orh=\skip59
+\f@ncyO@elf=\skip60
+\f@ncyO@erf=\skip61
+\f@ncyO@olf=\skip62
+\f@ncyO@orf=\skip63
+)
+\@emptytoks=\toks24
+\abstractbox=\box32
+)
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count112
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.aux)
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 7.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 7.
+ (C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 7.
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 7.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 7.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 7.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 7.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for T1+txr on input line 7.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\t1txr.fd
+File: t1txr.fd 2000/12/15 v3.1
+)
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen132
+\scratchbox=\box33
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen133
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks26
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+ (C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 7.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(90.3375pt, 416.83289pt, 90.3375pt)
+* v-part:(T,H,B)=(72.26999pt, 722.18808pt, 50.58878pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=722.18808pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for T1+txss on input line 52.
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\t1txss.fd
+File: t1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `T1/txss/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/txss/bx/sl' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/sl' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/it' in size <22> not available
+(Font)              Font shape `T1/txss/bx/sl' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/sl' will be
+(Font)              scaled to size 20.89993pt on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 52.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 52.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 52.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 52.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 52.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
+(Font)              scaled to size 17.09995pt on input line 52.
+
+
+LaTeX Font Warning: Font shape `T1/txss/k/n' undefined
+(Font)              using `T1/txss/m/n' instead on input line 52.
+
+<./template/itea.jpg, id=1, 240.9pt x 67.452pt>
+File: ./template/itea.jpg Graphic file (type jpg)
+ <use ./template/itea.jpg>
+Package pdftex.def Info: ./template/itea.jpg used on input line 52.
+(pdftex.def)             Requested size: 145.0pt x 40.60118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+
+ []
+
+LaTeX Font Info:    Font shape `T1/txss/k/n' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+
+LaTeX Font Warning: Font shape `T1/txss/k/it' undefined
+(Font)              using `T1/txss/k/n' instead on input line 52.
+
+LaTeX Font Info:    Font shape `T1/txss/k/it' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+
+LaTeX Font Warning: Font shape `T1/txss/h/n' undefined
+(Font)              using `T1/txss/m/n' instead on input line 52.
+
+LaTeX Font Info:    Font shape `T1/txss/m/n' will be
+(Font)              scaled to size 18.99994pt on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/h/n' will be
+(Font)              scaled to size 10.40245pt on input line 52.
+<./template/chart.png, id=2, 401.5pt x 301.125pt>
+File: ./template/chart.png Graphic file (type png)
+ <use ./template/chart.png>
+Package pdftex.def Info: ./template/chart.png used on input line 52.
+(pdftex.def)             Requested size: 350.0pt x 262.51881pt.
+LaTeX Font Info:    Font shape `T1/txss/k/n' will be
+(Font)              scaled to size 8.54997pt on input line 52.
+
+<./template/ccbysabig.png, id=3, 97.0827pt x 33.9669pt>
+File: ./template/ccbysabig.png Graphic file (type png)
+
+<use ./template/ccbysabig.png>
+Package pdftex.def Info: ./template/ccbysabig.png used on input line 52.
+(pdftex.def)             Requested size: 40.0pt x 13.99492pt.
+ [1
+
+{C:/Users/Merlin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/M
+erlin/Desktop/LATEX/D_2.1.2/template/itea.jpg> <C:/Users/Merlin/Desktop/LATEX/D
+_2.1.2/template/chart.png> <C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/ccby
+sabig.png>] [2]
+Overfull \hbox (113.16711pt too wide) in paragraph at lines 52--52
+[][][][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/txss/h/n' will be
+(Font)              scaled to size 18.99994pt on input line 52.
+
+Overfull \hbox (80.0pt too wide) in paragraph at lines 52--52
+[]$[]$[] 
+ []
+
+LaTeX Font Info:    Font shape `T1/txss/k/it' will be
+(Font)              scaled to size 8.54997pt on input line 52.
+
+Overfull \hbox (80.0pt too wide) in paragraph at lines 52--52
+[]$[]$[] 
+ []
+
+File: ./template/ccbysabig.png Graphic file (type png)
+<use ./template/ccbysabig.png>
+Package pdftex.def Info: ./template/ccbysabig.png used on input line 52.
+(pdftex.def)             Requested size: 40.0pt x 13.99492pt.
+
+Overfull \hbox (80.0pt too wide) in paragraph at lines 52--52
+[]$[]$ 
+ []
+
+LaTeX Font Info:    Font shape `T1/txss/k/n' will be
+(Font)              scaled to size 9.49997pt on input line 52.
+[1]
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 52.
+ (C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 52.
+LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
+(Font)              scaled to size 8.54997pt on input line 52.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+<./template/ccbysa.png, id=19, 64.3203pt x 12.045pt>
+File: ./template/ccbysa.png Graphic file (type png)
+
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 52.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [2
+
+ <C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/ccbysa.png>]
+LaTeX Font Info:    Font shape `T1/txss/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 53.
+
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.toc
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 66.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [3
+
+
+])
+\tf@toc=\write3
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 54.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [4]
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.lof)
+\tf@lof=\write4
+
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.lot
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 28.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [5
+
+])
+\tf@lot=\write5
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 65.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [6]
+Overfull \hbox (6.70566pt too wide) in paragraph at lines 68--128
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--128
+
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 132.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [7
+
+]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 132.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [8
+
+]
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/txss/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 135.
+LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
+(Font)              scaled to size 11.39996pt on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 146.
+
+(C:\Users\Merlin\AppData\Roaming\MiKTeX\2.9\tex\latex\txfonts\omstxr.fd
+File: omstxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 146.
+
+Underfull \hbox (badness 10000) detected at line 146
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 147
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 152
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 153
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 154
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Overfull \hbox (4.92488pt too wide) in paragraph at lines 155--156
+[]|\T1/txr/m/n/10.95 (-20) www.openproofs.org| 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in paragraph at lines 137--164
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--164
+
+ []
+
+<./template/openETCS1.jpg, id=47, 513.117pt x 350.7504pt>
+File: ./template/openETCS1.jpg Graphic file (type jpg)
+
+<use ./template/openETCS1.jpg>
+Package pdftex.def Info: ./template/openETCS1.jpg used on input line 176.
+(pdftex.def)             Requested size: 455.24408pt x 311.2035pt.
+
+Overfull \hbox (38.4112pt too wide) in paragraph at lines 176--177
+ [][] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 187.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [1
+
+]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 187.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [2 <C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/openETCS1.jpg>]
+Chapter 2.
+<./template/openETCS2.jpg, id=55, 610.65349pt x 296.18852pt>
+File: ./template/openETCS2.jpg Graphic file (type jpg)
+
+<use ./template/openETCS2.jpg>
+Package pdftex.def Info: ./template/openETCS2.jpg used on input line 192.
+(pdftex.def)             Requested size: 341.43306pt x 165.61134pt.
+
+<./template/openETCS3.jpg, id=56, 603.63222pt x 410.36792pt>
+File: ./template/openETCS3.jpg Graphic file (type jpg)
+
+<use ./template/openETCS3.jpg>
+Package pdftex.def Info: ./template/openETCS3.jpg used on input line 202.
+(pdftex.def)             Requested size: 416.82906pt x 240.90019pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./template/openETCS4.jpg, id=57, 602.98pt x 453.58029pt>
+File: ./template/openETCS4.jpg Graphic file (type jpg)
+
+<use ./template/openETCS4.jpg>
+Package pdftex.def Info: ./template/openETCS4.jpg used on input line 214.
+(pdftex.def)             Requested size: 416.8387pt x 242.90875pt.
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 217.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [3
+
+ <C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/openETCS2.jpg>]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 220.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+
+[4 <C:/Users/Merlin/Desktop/LATEX/D_2.1.2/template/openETCS3.jpg> <C:/Users/Mer
+lin/Desktop/LATEX/D_2.1.2/template/openETCS4.jpg>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) detected at line 231
+[]\T1/txr/m/n/10.95 1.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 232
+[]\T1/txr/m/n/10.95 2.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 233
+[]\T1/txr/m/n/10.95 3.[]
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 237.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [5
+
+]
+Chapter 4.
+
+Underfull \hbox (badness 10000) detected at line 246
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 247
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 248
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 254.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [6
+
+]
+Chapter 5.
+
+Underfull \hbox (badness 10000) detected at line 272
+[]\T1/txr/m/n/10.95 1.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 273
+[]\T1/txr/m/n/10.95 2.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 274
+[]\T1/txr/m/n/10.95 3.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 280
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 281
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 289.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [7
+
+]
+Underfull \hbox (badness 10000) detected at line 296
+[]\T1/txr/m/n/10.95 1.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 297
+[]\T1/txr/m/n/10.95 2.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 298
+[]\T1/txr/m/n/10.95 3.[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 299
+[]\T1/txr/m/n/10.95 4.[]
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 318.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [8]
+Underfull \hbox (badness 10000) detected at line 340
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 341
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 342
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 347
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 348
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 349
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 350.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [9]
+Underfull \hbox (badness 10000) detected at line 358
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 359
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 360
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 367
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 368
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 369
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 370
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 371
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 376.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [10]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
+
+ []
+
+No file openETCS_CENELEC-compliance_WP2_AEbt_mpo.bbl.
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 393.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [11
+
+]
+Appendix A.
+
+Underfull \hbox (badness 10000) detected at line 402
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 403
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 404
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 410
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 412
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 413
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 421
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 422
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 423
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 424
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 428--434
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 434--437
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--443
+[]|\T1/txss/m/n/9 (+20) Provide the ev-i-dence that tools in class T1 co-op-er-
+ate.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--443
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 439--443
+\T1/txss/m/n/9 (+20) Tools co-op-er-ate if the out-puts from one tool have suit
+-able
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 437--446
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 446.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [12
+
+
+]
+Underfull \hbox (badness 10000) detected at line 455
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 456
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 457
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 458
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 459
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 463--469
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 469--472
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+[]|\T1/txss/m/n/9 (+20) Provide the ev-i-dence that tools in class T2 co-op-er-
+ate.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 474--478
+\T1/txss/m/n/9 (+20) Tools co-op-er-ate if the out-puts from one tool have suit
+-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--484
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--490
+[]|\T1/txss/m/n/9 (+20) Provide a tool man-ual for each tool in class T2.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--490
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+[]|\T1/txss/m/n/9 (+20) See re-quire-ments
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 472--496
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 504
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 505.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [13]
+Underfull \hbox (badness 10000) detected at line 505
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 506
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 507
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 508
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 509
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 510
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 511
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 512
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 516--522
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 522--525
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--531
+[]|\T1/txss/m/n/9 (+20) Provide the ev-i-dence that tools in class T3 co-op-er-
+ate.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--531
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 527--531
+\T1/txss/m/n/9 (+20) Tools co-op-er-ate if the out-puts from one tool have suit
+-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--537
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--543
+[]|\T1/txss/m/n/9 (+20) Provide a tool man-ual for each tool in class T3.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--543
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--543
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]|\T1/txss/m/n/9 (+20) 6.7.4.4 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--550
+\T1/txss/m/n/9 (+20) Rec-om-men-da-tion
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 525--552
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 559--565
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 565--568
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--574
+[]|\T1/txss/m/n/9 (+20) Neither a tool nor soft-ware can be as-sessed, with-out
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--574
+\T1/txss/m/n/9 (+20) at least spec-i-fy-ing the ca-pa-bil-i-ties and bound-ary 
+con-di-
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 570--574
+\T1/txss/m/n/9 (+20) tions to be ful-filled by the op-er-at-ing sys-tem and har
+d-ware.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--574
+
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 574--575
+[]|\T1/txss/m/n/9 (+20) Boundary con-di-tions
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 568--576
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 576.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [14]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 584--590
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 590--593
+ [] [] [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+txss on input line 601
+.
+LaTeX Font Info:    No file OMStxss.fd. on input line 601.
+
+LaTeX Font Warning: Font shape `OMS/txss/m/n' undefined
+(Font)              using `OMS/txsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 601.
+
+
+Underfull \hbox (badness 10000) detected at line 601
+[]\OMS/txsy/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 602
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--606
+[]|\T1/txss/m/n/9 (+20) 5.1.2.4 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 593--609
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 616--622
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 622--625
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+[]|\T1/txss/m/n/9 (+20) 5.2.2.1 and
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 629
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 630
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 631
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 632
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 633
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 634
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 635
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 636
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 637
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+[]|\T1/txss/m/n/9 (+20) openETCS peo-ple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+\T1/txss/m/n/9 (+20) com-pe-tence ma-trix
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+\T1/txss/m/n/9 (+20) the cre-ated peo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--651
+\T1/txss/m/n/9 (+20) can also be used
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 646--651
+\T1/txss/m/n/9 (+20) as ev-i-dence for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--652
+[]|\T1/txss/m/n/9 (+20) 5.2.2.3 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 625--654
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 654.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [15]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 662--668
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 668--671
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--673
+[]|\T1/txss/m/n/9 (+20) 5.3.2.1 and
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 674--679
+[]|\T1/txss/m/n/9 (+20) The se-lected lif-ey-cle
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 674--679
+\T1/txss/m/n/9 (+20) model shall be de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+\T1/txss/m/n/9 (+20) As-sur-ance Plan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+\T1/txss/m/n/9 (+20) The same lif-ey-cle
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 674--679
+\T1/txss/m/n/9 (+20) model can also be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 680--681
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--689
+[]|\T1/txss/m/n/9 (+20) 5.3.2.6 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
+[]|\T1/txss/m/n/9 (+20) Document man-age-
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 698
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 699
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 703
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
+[]\T1/txss/m/n/9 (+20) Overall no-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 704
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 704--705
+[]\T1/txss/m/n/9 (+20) Documents re-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--710
+[]|\T1/txss/m/n/9 (+20) 5.3.2.8 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--718
+[]|\T1/txss/m/n/9 (+20) Overall def-i-ni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--718
+\T1/txss/m/n/9 (+20) tion of terms and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--718
+\T1/txss/m/n/9 (+20) ab-bre-vi-a-tions.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--718
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--729
+[]|\T1/txss/m/n/9 (+20) Checklist for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--729
+\T1/txss/m/n/9 (+20) doc-u-ments con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--729
+\T1/txss/m/n/9 (+20) sis-tency check.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--729
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--729
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 731--732
+\T1/txss/m/n/9 (+20) in the qual-ity as-sur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
+[]|\T1/txss/m/n/9 (+20) 5.3.2.12 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 671--747
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 747.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [16]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 747.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [17]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 758--764
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 764--767
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
+[]|\T1/txss/m/n/9 (+20) 6.1.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 769--769
+\T1/txss/m/n/9 (+20) 6.1.4.4 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 767--775
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 783--789
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 789--792
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--794
+[]|\T1/txss/m/n/9 (+20) 6.2.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--794
+\T1/txss/m/n/9 (+20) 6.2.4.9 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+[]|\T1/txss/m/n/9 (+20) Verification Plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+\T1/txss/m/n/9 (+20) The ver-i-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 799--804
+\T1/txss/m/n/9 (+20) plan shall be drawn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--804
+\T1/txss/m/n/9 (+20) through-out the tool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 805--805
+[]|\T1/txss/m/n/9 (+20) 6.2.4.10 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--812
+[]|\T1/txss/m/n/9 (+20) 6.2.4.12 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 792--817
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 817.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [18]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 826--832
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 832--835
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--837
+[]|\T1/txss/m/n/9 (+20) 6.3.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--837
+\T1/txss/m/n/9 (+20) 6.3.4.6 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+[]|\T1/txss/m/n/9 (+20) Validation Plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+\T1/txss/m/n/9 (+20) The val-i-da-tion plan
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 840--845
+\T1/txss/m/n/9 (+20) shall be drawn up
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 840--845
+\T1/txss/m/n/9 (+20) at the start of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+\T1/txss/m/n/9 (+20) through-out the tool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--846
+[]|\T1/txss/m/n/9 (+20) 6.3.4.7 to
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 863--864
+[]|\T1/txss/m/n/9 (+20) Validation ver-i-fi-ca-tion
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 835--865
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 872.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [19]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 877--883
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 883--886
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--892
+[]|\T1/txss/m/n/9 (+20) 6.5.4.3 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--892
+\T1/txss/m/n/9 (+20) 6.5.4.6 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
+\T1/txss/m/n/9 (+20) The qual-ity as-sur-
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 895--900
+\T1/txss/m/n/9 (+20) ance plan shall be
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 895--900
+\T1/txss/m/n/9 (+20) of the project and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--901
+[]|\T1/txss/m/n/9 (+20) 6.5.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+[]|\T1/txss/m/n/9 (+20) 6.5.4.10 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+\T1/txss/m/n/9 (+20) 6.5.4.12 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+[]|\T1/txss/m/n/9 (+20) Configuration man-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) age-ment plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) The con-fig-u-ra-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) man-age-ment plan
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) shall be drawn up
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) at the start of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--920
+\T1/txss/m/n/9 (+20) through-out the tool
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
+[]|\T1/txss/m/n/9 (+20) 6.5.4.14 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
+\T1/txss/m/n/9 (+20) 6.5.4.16 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 886--928
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 934.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [20]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 936--942
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 942--945
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 947--947
+[]|\T1/txss/m/n/9 (+20) 6.6.4.1 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 945--952
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 960--966
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 966--969
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 983--983
+[]|\T1/txss/m/n/9 (+20) 6.7.4.6 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
+[]|\T1/txss/m/n/9 (+20) See re-quire-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 984--985
+\T1/txss/m/n/9 (+20) 6.7.4.1, 6.7.4.2,
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 984--985
+\T1/txss/m/n/9 (+20) 6.7.4.3, 6.7.4.4 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 969--986
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1000--1006
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1006--1009
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1011
+[]|\T1/txss/m/n/9 (+20) 7.2.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1024
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1024
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+[]|\T1/txss/m/n/9 (+20) 7.2.4.16,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+\T1/txss/m/n/9 (+20) 7.2.4.17 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
+[]|\T1/txss/m/n/9 (+20) 7.2.4.21 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1009--1042
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1042.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [21]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1050--1056
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1056--1059
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+[]|\T1/txss/m/n/9 (+20) 7.3.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) recorded in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) Soft-ware Qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) As-sur-ance Plan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1078
+\T1/txss/m/n/9 (+20) 4 "Er-ror De-tect-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1079
+[]|\T1/txss/m/n/9 (+20) 7.3.4.16 and
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 1080--1081
+\T1/txss/m/n/9 (+20) its de-vel-op-ment and
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 1080--1081
+\T1/txss/m/n/9 (+20) doc-u-men-ta-tion ful-fills
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1082
+[]|\T1/txss/m/n/9 (+20) 7.3.4.18 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+[]|\T1/txss/m/n/9 (+20) 7.3.4.20 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T1/txss/m/n/9 (+20) 7.3.4.23,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T1/txss/m/n/9 (+20) 7.3.4.28,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T1/txss/m/n/9 (+20) 9.1.4.10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T1/txss/m/n/9 (+20) 9.1.4.13,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T1/txss/m/n/9 (+20) 9.1.4.16 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1096
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1096
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1097
+[]|\T1/txss/m/n/9 (+20) 7.3.4.25 to
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1102
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1103
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1104
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1105
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1106
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1107
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1114
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 1114--1115
+[]\T1/txss/m/n/9 (+20) Coding stan-dard
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1115
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1120
+[]\T1/txss/bx/n/9 NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1120
+\T1/txss/m/n/9 (+20) The se-lected cod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1120
+\T1/txss/m/n/9 (+20) ing stan-dards and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1120
+\T1/txss/m/n/9 (+20) Qual-ity As-sur-ance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1121
+[]|\T1/txss/m/n/9 (+20) 7.3.4.29 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+[]|\T1/txss/m/n/9 (+20) 7.3.4.33 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
+[]|\T1/txss/m/n/9 (+20) The tools soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1137
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1138
+[]|\T1/txss/m/n/9 (+20) 7.3.4.40 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1059--1145
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1145.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [22]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1152.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [23]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1154--1160
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1160--1163
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1165--1165
+[]|\T1/txss/m/n/9 (+20) 7.4.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
+[]|\T1/txss/m/n/9 (+20) 7.4.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1177--1178
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1179--1179
+[]|\T1/txss/m/n/9 (+20) 7.4.4.11 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1163--1186
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1195--1201
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1201--1204
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
+[]|\T1/txss/m/n/9 (+20) 7.5.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1211
+[]|\T1/txss/m/n/9 (+20) 7.5.4.5 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1220
+[]|\T1/txss/m/n/9 (+20) 7.5.4.8 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1204--1227
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1234.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [24]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1236--1242
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1242--1245
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1247
+[]|\T1/txss/m/n/9 (+20) 7.6.4.3 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1258--1258
+[]|\T1/txss/m/n/9 (+20) 7.6.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+[]|\T1/txss/m/n/9 (+20) Tools soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+\T1/txss/m/n/9 (+20) ware/hardware in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1269
+[]|\T1/txss/m/n/9 (+20) 7.6.4.11 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1245--1276
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1285--1291
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1291--1294
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1296--1296
+[]|\T1/txss/m/n/9 (+20) 7.7.4.1 to
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 1302--1303
+[]|\T1/txss/m/n/9 (+20) Overall tool-software
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1304--1304
+[]|\T1/txss/m/n/9 (+20) 7.7.4.6 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1294--1316
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1316.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [25]
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1325
+\T1/txr/m/n/10.95 (+20) quire-ments de-scribed in clauses A.5.2[], A.5.3[], A.5
+.4[] and A.5.6[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1325
+
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1334--1340
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1340--1343
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1345--1345
+[]|\T1/txss/m/n/9 (+20) 9.1.4.4 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1350--1350
+[]|\T1/txss/m/n/9 (+20) 9.1.4.6 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1359
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1360--1360
+[]|\T1/txss/m/n/9 (+20) 9.1.4.11 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1370--1371
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1376--1377
+[]|\T1/txss/m/n/9 (+20) Rollback pro-ce-dure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1379--1380
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+[]|\T1/txss/m/n/9 (+20) 9.1.4.17 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1384
+[]|\T1/txss/m/n/9 (+20) Tool de-ploy-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1386--1387
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1390
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1343--1391
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1391.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [26]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1399--1405
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1405--1408
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1410
+[]|\T1/txss/m/n/9 (+20) 9.2.4.5 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1415--1415
+[]|\T1/txss/m/n/9 (+20) 9.2.4.7 to
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 1418--1419
+[]|\T1/txss/m/n/9 (+20) Maintenance ver-i-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1425--1425
+[]|\T1/txss/m/n/9 (+20) 9.2.4.15 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1429
+[]|\T1/txss/m/n/9 (+20) Tool Main-te-nance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1430
+[]|\T1/txss/m/n/9 (+20) 9.2.4.17 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1408--1435
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1440.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [27]
+Appendix B.
+
+Underfull \hbox (badness 10000) detected at line 1450
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1452
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1453
+[]\OMS/txsy/m/n/10.95 []
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1460--1466
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1466--1469
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 1471--1478
+[]|\T1/txss/m/n/9 (+20) Requirement (4.1) de-scribes the al-lo-ca-tion of soft-
+ware safety
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1478
+\T1/txss/m/n/9 (+20) Nei-ther a tool nor soft-ware can be as-sessed, with-out
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1478
+\T1/txss/m/n/9 (+20) at least spec-i-fy-ing the ca-pa-bil-i-ties and bound-ary 
+con-di-
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 1471--1478
+\T1/txss/m/n/9 (+20) tions to be ful-filled by the op-er-at-ing sys-tem and har
+d-ware.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1478
+
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 1471--1478
+\T1/txss/m/n/9 (+20) Re-gard-ing the openETCS ap-pli-ca-tion soft-ware, we ther
+e-fore
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 1478--1479
+[]|\T1/txss/m/n/9 (+20) Boundary con-di-tions
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1469--1483
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1489.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [28
+
+]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1493--1499
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1499--1502
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1506
+[]|\T1/txss/m/n/9 (+18) 5.1.2.2,5.1.2.3,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1506--1506
+\T1/txss/m/n/9 (+20) 5.1.2.9 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1513--1513
+[]|\T1/txss/m/n/9 (+20) 5.1.2.4 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1515
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1502--1516
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1523--1529
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1529--1532
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1534
+[]|\T1/txss/m/n/9 (+20) 5.2.2.1 and
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1536
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1537
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1538
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1539
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1540
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1541
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1542
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1543
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1544
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1556
+[]|\T1/txss/m/n/9 (+20) openETCS peo-ple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1556
+\T1/txss/m/n/9 (+20) com-pe-tence ma-trix.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1556
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1556
+\T1/txss/m/n/9 (+20) com-pe-tence ma-trix
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 1551--1556
+\T1/txss/m/n/9 (+20) cre-ated in an-nex A[],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1557--1557
+[]|\T1/txss/m/n/9 (+20) 5.2.2.3 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1532--1559
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1559.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [29]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1567--1573
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1573--1576
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1578
+[]|\T1/txss/m/n/9 (+20) 5.3.2.1 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1582
+[]|\T1/txss/m/n/9 (+20) A life-cy-cle model for the de-vel-op-ment of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1582
+\T1/txss/m/n/9 (+20) the openETCS soft-ware shall be se-lected.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1582
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1583
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1584
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 1586--1587
+[]|\T1/txss/m/n/9 (+20) The se-lected lif-ey-cle
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 1586--1587
+\T1/txss/m/n/9 (+20) model shall be de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1588--1589
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1597--1597
+[]|\T1/txss/m/n/9 (+20) 5.3.2.6 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+[]|\T1/txss/m/n/9 (+20) Document man-age-
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1606
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1607
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1611
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1612
+[]\T1/txss/m/n/9 (+20) Overall no-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1612
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1613
+[]\T1/txss/m/n/9 (+20) Documents re-la-
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 1615--1616
+[]\T1/txss/m/n/9 (+20) Both shall be ref-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1617--1617
+[]|\T1/txss/m/n/9 (+20) 5.3.2.8 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1625
+[]|\T1/txss/m/n/9 (+20) Overall def-i-ni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1625
+\T1/txss/m/n/9 (+20) tion of terms and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1625
+\T1/txss/m/n/9 (+20) ab-bre-vi-a-tions.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1620--1625
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 1620--1625
+\T1/txss/m/n/9 (+20) the soft-ware qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1636
+[]|\T1/txss/m/n/9 (+20) Checklist for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1636
+\T1/txss/m/n/9 (+20) doc-u-ments con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1636
+\T1/txss/m/n/9 (+20) sis-tency check.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1631--1636
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 1631--1636
+\T1/txss/m/n/9 (+20) the soft-ware qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+[]|\T1/txss/m/n/9 (+20) The se-lected file
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) for-mats shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) ity as-sur-ance plan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) the openETCS tools
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) chain shall gen-er-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1643
+\T1/txss/m/n/9 (+20) doc-u-ments in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1644--1644
+[]|\T1/txss/m/n/9 (+20) 5.3.2.12 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1660
+[]|\T1/txss/m/n/9 (+20) Lifeycle cy-cle im-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 1655--1660
+\T1/txss/m/n/9 (+20) pact anal-y-sis re-port.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1660
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1660
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1660
+\T1/txss/m/n/9 (+20) The same re-port
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 1655--1660
+\T1/txss/m/n/9 (+20) same lif-ey-cle model
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1576--1661
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1661.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [30]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1670.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [31]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1672--1678
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1678--1681
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1683
+[]|\T1/txss/m/n/9 (+20) 6.1.4.1 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1681--1689
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1697--1703
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1703--1706
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1708--1708
+[]|\T1/txss/m/n/9 (+20) 6.2.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+[]|\T1/txss/m/n/9 (+20) Software ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+\T1/txss/m/n/9 (+20) i-fi-ca-tion Plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+\T1/txss/m/n/9 (+20) The Soft-ware ver-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1719
+[]|\T1/txss/m/n/9 (+20) 6.2.4.10 to
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 1724--1725
+[]|\T1/txss/m/n/9 (+20) Software qual-ity as-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
+[]|\T1/txss/m/n/9 (+20) 6.2.4.12 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1729--1730
+[]|\T1/txss/m/n/9 (+20) Software ver-i-fi-ca-tion
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1706--1731
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1740--1746
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1746--1749
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1751
+[]|\T1/txss/m/n/9 (+20) 6.3.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+[]|\T1/txss/m/n/9 (+20) Software Val-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+\T1/txss/m/n/9 (+20) i-da-tion Plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+\T1/txss/m/n/9 (+20) The soft-ware val-i-
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1754--1759
+\T1/txss/m/n/9 (+20) da-tion plan shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1759
+\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1760--1760
+[]|\T1/txss/m/n/9 (+20) 6.3.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1770--1771
+[]|\T1/txss/m/n/9 (+20) Software val-i-da-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1777--1778
+[]|\T1/txss/m/n/9 (+20) Software Val-i-da-tion
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1749--1779
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1779.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [32]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1791--1797
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1797--1800
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1802--1803
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1804--1805
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1806
+[]|\T1/txss/m/n/9 (+20) 6.5.4.3 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1806--1806
+\T1/txss/m/n/9 (+20) 6.5.4.6 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+[]|\T1/txss/m/n/9 (+20) Software qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) as-sur-ance plan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) The soft-ware qual-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) ity as-sur-ance plan
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) shall be drawn up
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) at the start of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) project and main-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1814--1814
+[]|\T1/txss/m/n/9 (+20) 6.5.4.7 to
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 1819--1820
+[]|\T1/txss/m/n/9 (+20) Software qual-ity as-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1822
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1823
+[]|\T1/txss/m/n/9 (+20) 6.5.4.10 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1823
+\T1/txss/m/n/9 (+20) 6.5.4.12 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) man-age-ment plan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) The soft-ware con-fig-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) u-ra-tion man-age-ment
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) plan shall be drawn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) project and main-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1827--1832
+\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1833--1833
+[]|\T1/txss/m/n/9 (+20) 6.5.4.14 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1833--1833
+\T1/txss/m/n/9 (+20) 6.5.4.16 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1800--1840
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1840.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [33]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1848--1854
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1854--1857
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1857--1864
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1868.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [34]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1872--1878
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1878--1881
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1883
+[]|\T1/txss/m/n/9 (+20) 6.7.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1884
+\T1/txss/m/n/9 (+20) doc-u-men-ta-tion, see
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1885--1886
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1881--1889
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1904--1910
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1910--1913
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1915
+[]|\T1/txss/m/n/9 (+20) 7.2.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1915
+\T1/txss/m/n/9 (+20) 7.2.4.14 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1921
+[]\T1/txss/m/n/9 (+20) The cre-ated soft-ware re-quire-ments spec-i-fi-ca-tion 
+shall im-
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 1917--1921
+\T1/txss/m/n/9 (+20) ple-ment re-quire-ments from 7.2.4.2 to 7.2.4.15 and 8.4.8
+.2.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1921
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1928
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1928
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1927--1928
+\T1/txss/m/n/9 (+20) recorded in the soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1929
+[]|\T1/txss/m/n/9 (+20) 7.2.4.16,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1929
+\T1/txss/m/n/9 (+20) 7.2.4.17 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1938
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1937--1938
+\T1/txss/m/n/9 (+20) recorded in the soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1939
+[]|\T1/txss/m/n/9 (+20) 7.2.4.21 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1913--1946
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 1946.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [35]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1954--1960
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1960--1963
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1965--1965
+[]|\T1/txss/m/n/9 (+20) 7.3.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1971
+[]\T1/txss/m/n/9 (+20) The cre-ated ar-chi-tec-ture spec-i-fi-ca-tion shall imp
+le-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1971
+\T1/txss/m/n/9 (+20) ment re-quire-ments from 7.3.4.2 to 7.3.4.15.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) recorded in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) soft-ware qual-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) as-sur-ance plan.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
+\T1/txss/m/n/9 (+20) 4 "Er-ror De-tect-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1983
+[]|\T1/txss/m/n/9 (+20) 7.3.4.16 and
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 1984--1985
+\T1/txss/m/n/9 (+20) its de-vel-op-ment and
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 1984--1985
+\T1/txss/m/n/9 (+20) doc-u-men-ta-tion ful-fills
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1986
+[]|\T1/txss/m/n/9 (+20) 7.3.4.18,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1986
+\T1/txss/m/n/9 (+20) 7.3.4.19 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1989--1990
+[]|\T1/txss/m/n/9 (+20) Software in-ter-face
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 1989--1990
+\T1/txss/m/n/9 (+20) spec-i-fi-ca-tion for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+[]|\T1/txss/m/n/9 (+20) 7.3.4.20 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 7.3.4.23,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 7.3.4.28,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 8.4.8.7,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 9.1.4.10,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 9.1.4.13,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+\T1/txss/m/n/9 (+20) 9.1.4.16 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1995--1996
+[]|\T1/txss/m/n/9 (+20) Software de-sign
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 1995--1996
+\T1/txss/m/n/9 (+20) spec-i-fi-ca-tion for the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2001
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2000--2001
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 2000--2001
+\T1/txss/m/n/9 (+20) recorded in the soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2002--2002
+[]|\T1/txss/m/n/9 (+20) 7.3.4.25 to
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2007
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2008
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2009
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2010
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2011
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2012
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2018
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 2018--2019
+[]\T1/txss/m/n/9 (+20) Coding stan-dard
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2019
+[]\OMS/txss/m/n/9 []
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 2022--2023
+[]\T1/txss/m/n/9 (+20) The se-lected cod-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2024
+[]|\T1/txss/m/n/9 (+20) 7.3.4.29 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2032--2033
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2032--2033
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 2032--2033
+\T1/txss/m/n/9 (+20) recorded in the soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2034--2034
+[]|\T1/txss/m/n/9 (+20) 7.3.4.33 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2037--2038
+[]|\T1/txss/m/n/9 (+20) openETCS soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2039--2040
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2041--2041
+[]|\T1/txss/m/n/9 (+20) 7.3.4.40 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 1963--2048
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2048.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [36]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2057--2063
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2063--2066
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2068--2068
+[]|\T1/txss/m/n/9 (+20) 7.4.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2072
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2072
+\T1/txss/m/n/9 (+20) com-po-nents de-sign
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2074
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2075--2075
+[]|\T1/txss/m/n/9 (+20) 7.4.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2079
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2079
+\T1/txss/m/n/9 (+20) com-po-nents test
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2080--2081
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2082--2082
+[]|\T1/txss/m/n/9 (+20) 7.4.4.11 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2087--2088
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2087--2088
+\T1/txss/m/n/9 (+20) com-po-nent de-sign
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2066--2089
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2089.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [37]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2098--2104
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2104--2107
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2109--2109
+[]|\T1/txss/m/n/9 (+20) 7.5.4.1 to
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 2112--2113
+[]|\T1/txss/m/n/9 (+20) openETCS Soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2114--2114
+[]|\T1/txss/m/n/9 (+20) 7.5.4.5 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2123--2123
+[]|\T1/txss/m/n/9 (+20) 7.5.4.8 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+\T1/txss/m/n/9 (+20) com-po-nent de-sign
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2107--2130
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2139--2145
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2145--2148
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2150--2150
+[]|\T1/txss/m/n/9 (+20) 7.6.4.3 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2159--2160
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2161--2161
+[]|\T1/txss/m/n/9 (+20) 7.6.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2168--2169
+[]|\T1/txss/m/n/9 (+20) openETCS soft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2170--2171
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2172--2172
+[]|\T1/txss/m/n/9 (+20) 7.6.4.11 to
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 2172--2173
+[]|\T1/txss/m/n/9 (+20) Once the openTCS soft-ware in-te-gra-tion test re-port 
+and soft-
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2148--2179
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2179.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [38]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2189--2195
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2195--2198
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2200--2200
+[]|\T1/txss/m/n/9 (+20) 7.7.4.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2205--2206
+[]|\T1/txss/m/n/9 (+20) Overall openETCS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2207--2207
+[]|\T1/txss/m/n/9 (+20) 7.7.4.6 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2212--2213
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2214
+[]|\T1/txss/m/n/9 (+20) 7.7.4.12 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2198--2219
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2219.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [39]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2229--2235
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2235--2238
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2240--2240
+[]|\T1/txss/m/n/9 (+20) 8.4.1.2 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2240--2240
+\T1/txss/m/n/9 (+20) 8.4.1.11 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2245--2245
+[]|\T1/txss/m/n/9 (+20) 8.4.1.12 to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2238--2252
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2257--2263
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2263--2266
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2268--2268
+[]|\T1/txss/m/n/9 (+20) 8.4.2.1 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2272
+\T1/txss/m/n/9 (+20) data re-quire-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2273--2273
+[]|\T1/txss/m/n/9 (+20) 8.4.2.4 and
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2266--2280
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2285--2291
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2291--2294
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2294--2299
+ [] [] [] 
+ []
+
+
+Overfull \vbox (5.336pt too high) has occurred while \output is active []
+
+File: ./template/ccbysa.png Graphic file (type png)
+
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2299.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [40]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2304--2310
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2310--2313
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2325--2325
+[]|\T1/txss/m/n/9 (+20) 8.4.4.5 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2330
+[]|\T1/txss/m/n/9 (+20) 8.4.4.7 and
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 2333--2334
+\T1/txss/m/n/9 (+20) Data Ver-i-fi-ca-tion Re-
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2313--2335
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2340--2346
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2346--2349
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2351--2351
+[]|\T1/txss/m/n/9 (+20) 8.4.5.1 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2356--2356
+[]|\T1/txss/m/n/9 (+20) 8.4.5.3 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2361--2366
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 2361--2366
+\T1/txss/m/n/9 (+20) writ-ten ac-cord-ing to
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2349--2367
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2377--2383
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2383--2386
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2388--2388
+[]|\T1/txss/m/n/9 (+20) 8.4.7.1 and
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 2389--2392
+\T1/txss/m/n/9 (+20) Use the openETCS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2393--2393
+[]|\T1/txss/m/n/9 (+20) 8.4.7.3 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2395--2400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2395--2400
+\T1/txss/m/n/9 (+20) NOTE
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2386--2402
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2402.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [41]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2407--2413
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2413--2416
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2419--2420
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2421--2422
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2425--2426
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2427--2428
+[]|\T1/txss/m/n/9 (+20) See re-quire-ments
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 2427--2428
+\T1/txss/m/n/9 (+20) 6.1.4.1, 6.2.4.1 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2429--2430
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2431--2432
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2416--2433
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2446--2452
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2452--2455
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2457
+[]|\T1/txss/m/n/9 (+20) 9.1.4.4 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2460--2461
+[]|\T1/txss/m/n/9 (+20) openETCS re-lease
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2462--2462
+[]|\T1/txss/m/n/9 (+20) 9.1.4.6 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2467--2468
+[]|\T1/txss/m/n/9 (+20) openETCS de-ploy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2467--2468
+\T1/txss/m/n/9 (+20) ment ver-i-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2470--2471
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2472--2472
+[]|\T1/txss/m/n/9 (+20) 9.1.4.11 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
+[]|\T1/txss/m/n/9 (+20) openETCS de-ploy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2481--2482
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2484--2485
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2487--2488
+[]|\T1/txss/m/n/9 (+20) Rollback pro-ce-dure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2490--2491
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2492--2492
+[]|\T1/txss/m/n/9 (+20) 9.1.4.17 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2495--2496
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2499
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2502
+[]|\T1/txss/m/n/9 (+20) See re-quire-ment
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2455--2503
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2503.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [42]
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2511--2517
+ [] [] [] 
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2517--2520
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2522
+[]|\T1/txss/m/n/9 (+20) 9.2.4.5 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2525--2526
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2527--2527
+[]|\T1/txss/m/n/9 (+20) 9.2.4.7 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2531
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 2530--2531
+\T1/txss/m/n/9 (+20) main-te-nance ver-i-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2535--2536
+[]|\T1/txss/m/n/9 (+20) The se-lected tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2535--2536
+\T1/txss/m/n/9 (+20) niques shall be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2537--2537
+[]|\T1/txss/m/n/9 (+20) 9.2.4.15 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2540--2541
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2542--2542
+[]|\T1/txss/m/n/9 (+20) 9.2.4.17 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2545--2546
+[]|\T1/txss/m/n/9 (+20) openETCS soft-ware
+ []
+
+
+Overfull \hbox (19.10565pt too wide) in alignment at lines 2520--2547
+ [] [] [] 
+ []
+
+File: ./template/ccbysa.png Graphic file (type png)
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2547.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [43]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2551.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [44]
+File: ./template/ccbysa.png Graphic file (type png)
+
+<use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2614.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [45
+
+]
+File: ./template/ccbysa.png Graphic file (type png)
+ <use ./template/ccbysa.png>
+Package pdftex.def Info: ./template/ccbysa.png used on input line 2638.
+(pdftex.def)             Requested size: 32.84999pt x 6.15186pt.
+ [46]
+(C:\Users\Merlin\Desktop\LATEX\D_2.1.2\openETCS_CENELEC-compliance_WP2_AEbt_mpo
+.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7453 strings out of 493921
+ 107446 string characters out of 3144874
+ 298852 words of memory out of 3000000
+ 10167 multiletter control sequences out of 15000+200000
+ 109176 words of font info for 439 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 43i,14n,59p,900b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/
+Merlin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/txfonts/rtxb.pfb><C:/Users
+/Merlin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/User
+s/Merlin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/txfonts/t1xtt.pfb><C:/Us
+ers/Merlin/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/txfonts/txsy.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on openETCS_CENELEC-compliance_WP2_AEbt_mpo.pdf (56 pages, 59210
+5 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 60457 words of extra memory for PDF output out of 61914 (max. 10000000)
+

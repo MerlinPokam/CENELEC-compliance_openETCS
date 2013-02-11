@@ -1,0 +1,61 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Abbreviations\relax }}{vii}
+\contentsline {table}{\numberline {2}{\ignorespaces Terms and definitions\relax }}{1}
+\contentsline {table}{\numberline {A1}{\ignorespaces Requirements for tools in class T1}}{13}
+\contentsline {table}{\numberline {A2}{\ignorespaces Requirements for tools in class T2}}{13}
+\contentsline {table}{\numberline {A3}{\ignorespaces Requirements for tools in class T3}}{14}
+\contentsline {table}{\numberline {A4}{\ignorespaces Boundary conditions for operating systems and hardware (Clause 4 according to EN 50128:2011)}}{15}
+\contentsline {table}{\numberline {A5}{\ignorespaces Management and organisation regarding the development tools in class T3 (Subclause 5.1 according to EN 50128:2011)}}{15}
+\contentsline {table}{\numberline {A6}{\ignorespaces Personnel competence regarding tools in class T3 (Subclause 5.2 according to EN 50128:2011)}}{16}
+\contentsline {table}{\numberline {A7}{\ignorespaces Lifecycle issues and documentation regarding tools in class T3 (Subclause 5.3 according to EN 50128:2011)}}{16}
+\contentsline {table}{\numberline {A7}{\ignorespaces Lifecycle issues and documentation regarding tools in class T3 (Subclause 5.3 according to EN 50128:2011)}}{17}
+\contentsline {table}{\numberline {A7}{\ignorespaces Lifecycle issues and documentation regarding tools in class T3 (Subclause 5.3 according to EN 50128:2011)}}{18}
+\contentsline {table}{\numberline {A8}{\ignorespaces Testing activities during the development of tools in class T3 (Subclause 6.1 according to EN 50128:2011)}}{18}
+\contentsline {table}{\numberline {A9}{\ignorespaces Verification activities during the development of tools in class T3 (Subclause 6.2 according to EN 50128:2011)}}{19}
+\contentsline {table}{\numberline {A10}{\ignorespaces Validation activities during the development of tools in class T3 (Subclause 6.3 according to EN 50128:2011)}}{19}
+\contentsline {table}{\numberline {A11}{\ignorespaces Quality assurance activities during the development of tools in class T3 (Subclause 6.5 according to EN 50128:2011)}}{20}
+\contentsline {table}{\numberline {A12}{\ignorespaces Modification and change control activities during the development of tools in class T3 (Subclause 6.6 according to EN 50128:2011)}}{21}
+\contentsline {table}{\numberline {A13}{\ignorespaces Support tools and languages used for the development tools in class T3 (Subclause 6.7 according to EN 50128:2011)}}{21}
+\contentsline {table}{\numberline {A14}{\ignorespaces Requirements for tools in class T3 (Subclause 7.2 according to EN 50128:2011)}}{22}
+\contentsline {table}{\numberline {A15}{\ignorespaces Architecture and design for tools in class T3 (Subclause 7.3 according to EN 50128:2011)}}{22}
+\contentsline {table}{\numberline {A15}{\ignorespaces Architecture and design for tools in class T3 (Subclause 7.3 according to EN 50128:2011)}}{23}
+\contentsline {table}{\numberline {A16}{\ignorespaces Components design for tools in class T3 (Subclause 7.4 according to EN 50128:2011)}}{24}
+\contentsline {table}{\numberline {A17}{\ignorespaces Implementation and tests of tools in class T3 (Subclause 7.5 according to EN 50128:2011)}}{24}
+\contentsline {table}{\numberline {A18}{\ignorespaces Integration of the software source code of the developed tools (Subclause 7.6 according to EN 50128:2011)}}{25}
+\contentsline {table}{\numberline {A19}{\ignorespaces Validation of the software source code of the developed tools (Subclause 7.7 according to EN 50128:2011)}}{26}
+\contentsline {table}{\numberline {A20}{\ignorespaces Deployment of the developed tools (Subclause 9.1 according to EN 50128:2011)}}{26}
+\contentsline {table}{\numberline {A20}{\ignorespaces Deployment of the developed tools (Subclause 9.1 according to EN 50128:2011)}}{27}
+\contentsline {table}{\numberline {A21}{\ignorespaces Maintenance of the developed tools (Subclause 9.2 according to EN 50128:2011)}}{27}
+\contentsline {table}{\numberline {B1}{\ignorespaces Safety Integrity Levels (Clause 4 according to EN 50128:2011)}}{28}
+\contentsline {table}{\numberline {B2}{\ignorespaces Management and organisation regarding the development of the openETCS software}}{29}
+\contentsline {table}{\numberline {B3}{\ignorespaces Personnel competence regarding regarding the development of the openETCS software}}{29}
+\contentsline {table}{\numberline {B3}{\ignorespaces Personnel competence regarding regarding the development of the openETCS software}}{30}
+\contentsline {table}{\numberline {B4}{\ignorespaces Lifecycle issues and documentation regarding the development of the openETCS software)}}{30}
+\contentsline {table}{\numberline {B4}{\ignorespaces Lifecycle issues and documentation regarding the development of the openETCS software)}}{31}
+\contentsline {table}{\numberline {B5}{\ignorespaces Testing activities during the development of the openETCS software (Subclause 6.1 according to EN 50128:2011)}}{32}
+\contentsline {table}{\numberline {B6}{\ignorespaces Verification activities during the development of the openETCS software (Subclause 6.2 according to EN 50128:2011)}}{32}
+\contentsline {table}{\numberline {B7}{\ignorespaces Validation activities during the development of the openETCS software (Subclause 6.3 according to EN 50128:2011)}}{33}
+\contentsline {table}{\numberline {B8}{\ignorespaces Quality assurance activities during the development of the openETCS software (Subclause 6.5 according to EN 50128:2011)}}{33}
+\contentsline {table}{\numberline {B8}{\ignorespaces Quality assurance activities during the development of the openETCS software (Subclause 6.5 according to EN 50128:2011)}}{34}
+\contentsline {table}{\numberline {B9}{\ignorespaces Modification and change control activities during the development of the openETCS software (Subclause 6.6 according to EN 50128:2011)}}{34}
+\contentsline {table}{\numberline {B10}{\ignorespaces Support tools and languages used for the development of the openETCS software (Subclause 6.7 according to EN 50128:2011)}}{35}
+\contentsline {table}{\numberline {B11}{\ignorespaces Requirements for the openETCS (Subclause 7.2 according to EN 50128:2011)}}{35}
+\contentsline {table}{\numberline {B11}{\ignorespaces Requirements for the openETCS (Subclause 7.2 according to EN 50128:2011)}}{36}
+\contentsline {table}{\numberline {B12}{\ignorespaces Architecture and design for the openETCS software (Subclause 7.3 according to EN 50128:2011)}}{36}
+\contentsline {table}{\numberline {B12}{\ignorespaces Architecture and design for the openETCS software (Subclause 7.3 according to EN 50128:2011)}}{37}
+\contentsline {table}{\numberline {B13}{\ignorespaces Components design for the openETCS software (Subclause 7.4 according to EN 50128:2011)}}{38}
+\contentsline {table}{\numberline {B14}{\ignorespaces Implementation and tests of the openETCS software (Subclause 7.5 according to EN 50128:2011)}}{38}
+\contentsline {table}{\numberline {B15}{\ignorespaces Integration of the openETCS software source code (Subclause 7.6 according to EN 50128:2011)}}{39}
+\contentsline {table}{\numberline {B16}{\ignorespaces Validation of the openETCS software source code (Subclause 7.7 according to EN 50128:2011)}}{39}
+\contentsline {table}{\numberline {B16}{\ignorespaces Validation of the openETCS software source code (Subclause 7.7 according to EN 50128:2011)}}{40}
+\contentsline {table}{\numberline {B17}{\ignorespaces Development process of application data of the generic openETCS software (Subclause 8.4.1 according to EN 50128:2011)}}{40}
+\contentsline {table}{\numberline {B18}{\ignorespaces Requirements Specification of application data of the generic openETCS software (Subclause 8.4.2 according to EN 50128:2011)}}{40}
+\contentsline {table}{\numberline {B19}{\ignorespaces Architecture and design of application data of the generic openETCS software (Subclause 8.4.3 according to EN 50128:2011)}}{40}
+\contentsline {table}{\numberline {B20}{\ignorespaces Production of application data of the generic openETCS software (Subclause 8.4.4 according to EN 50128:2011)}}{41}
+\contentsline {table}{\numberline {B21}{\ignorespaces Integration and Tests of application data of the generic openETCS software (Subclause 8.4.5 according to EN 50128:2011)}}{41}
+\contentsline {table}{\numberline {B22}{\ignorespaces preparation procedures and tools of application data of the generic openETCS software (Subclause 8.4.7 according to EN 50128:2011)}}{41}
+\contentsline {table}{\numberline {B22}{\ignorespaces preparation procedures and tools of application data of the generic openETCS software (Subclause 8.4.7 according to EN 50128:2011)}}{42}
+\contentsline {table}{\numberline {B23}{\ignorespaces Additional requirements for the development of the generic openETCS software (Subclause 8.4.8 according to EN 50128:2011)}}{42}
+\contentsline {table}{\numberline {B24}{\ignorespaces Deployment of the openETCS Software (Subclause 9.1 according to EN 50128:2011)}}{42}
+\contentsline {table}{\numberline {B24}{\ignorespaces Deployment of the openETCS Software (Subclause 9.1 according to EN 50128:2011)}}{43}
+\contentsline {table}{\numberline {B25}{\ignorespaces Maintenance of the openETCS Software (Subclause 9.2 according to EN 50128:2011)}}{43}
+\contentsline {table}{\numberline {B25}{\ignorespaces Maintenance of the openETCS Software (Subclause 9.2 according to EN 50128:2011)}}{44}
