@@ -2,6 +2,7 @@
 % Use the option "nocc" if the document is not licensed under Creative Commons
 %\documentclass[nocc]{template/openetcs_report}
 \usepackage{lipsum,url}
+\usepackage{fixme}
 \graphicspath{{./template/}{.}{./images/}}
 
 \begin{document}
@@ -44,7 +45,9 @@
 
 
 \begin{abstract}
-This report elicits requirements coming from the standards that should be fulfilled, in order to prove that the openETCS project deliverables are fit for theirs intended purposes and respond correctly to safety issues that have been derived from the System (ERTMS) Safety Requirements Specification.
+This report elicits requirements coming from the standards that should be fulfilled, in order to prove that the openETCS project deliverables are fit for theirs intended purposes and respond correctly to safety issues that have been derived from the ERTMS System Safety Requirements Specification.
+
+\fxnote*[draft]{deliverables is just used for the reports, maybe better toolchain and software}{openETCS project deliverables}
 \end{abstract}
 
 %=============================
@@ -79,7 +82,7 @@ This report elicits requirements coming from the standards that should be fulfil
     \hline
     CENELEC & (english) European Committee for Electrotechnical Standardization\\
     \hline
-    COTS & Commercial off-the-shelf als called pre-existing software\\
+    COTS & Commercial off-the-shelf in addition called pre-existing software\\
     \hline
     CV & Curriculum Vitae\\
     \hline
@@ -156,7 +159,7 @@ Open Proofs & An "open Proofs" is software or a system where all of the followin
 \hline
 Software & Intellectual creation comprising the programs, procedures, rules, data and any associated documentation pertaining to the operation of a system & EN 50128:2011 \\ 
 \hline
-Application software & part of the software of a programmable electronic system that specifies the functions that perform a task related to the EUC rather than the functioning of, and services provided by the programmable device itself & IEC 61508-4:2010 \\ 
+Application software & Part of the software of a programmable electronic system that specifies the functions that perform a task related to the EUC rather than the functioning of, and services provided by the programmable device itself & IEC 61508-4:2010 \\ 
 \hline
 \end{tabular}
 %\hline
@@ -164,6 +167,7 @@ Application software & part of the software of a programmable electronic system 
 \caption{Terms and definitions}
 \end{table}
 
+\fxnote*[draft]{abriviation without explanation}{EUC}
 
 \section{openETCS tools chain}
 The openETCS tools chain covers the entire software development process of the ETCS OBU,
@@ -178,14 +182,16 @@ and automatic generation of documents, see Figure \ref{fig:openETCS1}.
   \label{fig:openETCS1}
 \end{figure}
 
-
+\fxwarning[draft]{better adopted grafic (ask Marc Behrens for draft)}
 
 \section{openETCS application software}
-Software code generated form formal models, see Figure \ref{fig:openETCS1} above.
+Software code generated from formal models, see Figure \ref{fig:openETCS1} above.
 
 
 \chapter{Introduction and motivation}
 In all over Europe there are about 30 different, mostly not compatible signaling and train protection systems in use, see Figure \ref{fig:openETCS2}. For a unified european rail system it is very costly to maintain this diversity of signaling systems and therefore the european commission has set new rules by so called Technical Specifications for Interoperability (TSI) with the goal to implement a unified "European Train Control System (ETCS)".
+
+\fxwarning*[draft]{add source refference for TSI}{Technical Specifications for Interoperability (TSI)}
 
 \begin{figure}
 \centering
@@ -194,8 +200,11 @@ In all over Europe there are about 30 different, mostly not compatible signaling
 \label{fig:openETCS2}
 \end{figure}
 
-ETCS is intended to replace national legacy signaling and train control systems and consists of facilities in the infrastructure and on-board units (OBU). ETCS is a so called cab-signaling system, which means that in principle all commands for the driver are shown on screens inside the driver?s cabin, making conventional track-side signals obsolete, resulting in considerable savings for the infrastructure operators. The shift of functionality and safety responsibilities from the infrastructure into the vehicle has caused an increase of complexity for the on-board equipment. In terms of technology, this is mostly done by software. While electronic hardware is getting continuously cheaper, the high complexity of the safety critical software has caused significant cost increases for development, homologation and maintenance of this technology.
+ETCS is intended to replace national legacy signaling and train control systems and consists of facilities in the infrastructure and on-board units (OBU). ETCS is a so called cab-signaling system, which means that in principle all commands for the driver are shown on screens inside the driver's cabin, making conventional track-side signals obsolete, resulting in considerable savings for the infrastructure operators. The shift of functionality and safety responsibilities from the infrastructure into the vehicle has caused an increase of complexity for the on-board equipment. In terms of technology, this is mostly done by software. While electronic hardware is getting continuously cheaper, the high complexity of the safety critical software has caused significant cost increases for development, homologation and maintenance of this technology.
 Despite the fact that several major European suppliers with substantial knowledge in signal technology have worked on a common System Requirement Specification (SRS) for over a decade, the main goal of interoperability has not yet been accomplished. Up to now, not a single ETCS onboard unit has been approved to operate on all existing European ETCS lines. One of the reasons is given by the fact that a plain English specification text "prose" of some complexity cannot be so precise and free of potential divergent interpretation that the resulting software products would behave identical, see Figure \ref{fig:openETCS3}. Therefore the development of ETCS has to be considered as "work in progress", resulting in many software upgrades to be expected in the near and distant future.
+
+\fxnote*[draft]{connection not clearly expressed}{In terms of technology, this is mostly done by software.}
+\fxwarning*[draft]{add source refference for SRS}{System Requirement Specification (SRS)}
 
 \begin{figure}[h]
 \centering
@@ -205,7 +214,7 @@ Despite the fact that several major European suppliers with substantial knowledg
 \end{figure}
 
 Almost all products on the market are based on different proprietary software designs, which results in a life-long dependency from the original manufacturers causing high life-cycle costs for vehicle owners. The key element for improving that situation seems to be a greater degree of standardization for: Hardware, software, methods and tools.
-An open source approach, called "openETCS" utilizing concepts from the automotive and
+An approach following the open source idea, called "openETCS" utilizing concepts from the automotive and
 aviation industry, has been suggested, not only covering the embedded application software of the ETCS onboard unit itself, but including all tools and documents in order to make the entire product life cycle as transparent as possible and make it comprehensible for third parties.
 Making the proof of safety open to the public has been called "open proof" and is new to the railway sector, see Figure \ref{fig:openETCS4}.
 
@@ -226,18 +235,18 @@ Proposal, see \cite{FPP13}.
 \section{Main goals and deliverables}
 The objective of the openETCS project is to provide a usable open source application software; including tools, documentations and the safety case for all ETCS OBU. That means, are made available as FLOSS under a "General Public License" (e.g. EUPL: European Union Public License).
 \\
-According to the project co-operation agreement \cite{PCA12}, The main goals and deliverables of the openETCS project are:
+According to the project co-operation agreement \cite{PCA12}, the main goals and deliverables of the openETCS project are:
 \begin{enumerate}
   \item Create a formal specification of the ETCS OBU functionality according to UNISIG Subset 026,
   \item Generate an executable software package from the formal specification and integrate the generated software package in the target hardware (non vital integration) for laboratory test, simulation and reference purposes,  
-  \item Develop a tools chain supporting both previous bullet points including: code, test case and document generation, meeting CENELEC EN50128:2011 (T3) requirements and certifiable for SIL4 software applications for signalling equipment.
+  \item Develop a tools chain supporting both previous bullet points including: code, test case and document generation, meeting CENELEC EN50128:2011 requirements and certifiable for SIL4 software applications for signalling equipment.
 \end{enumerate}
 
 
 \chapter{Purpose and creation of this report}
 
 \section{Purpose of this report}
-Due to the particularity of this project and taking into account the goals of this project, it should be clarified in advance which requirements shall be fulfilled in order to be compliant with the CENELEC standard EN 50128:2011. The work was carried out and coordinated by AEbt and the result is this report. Hence, this report elicits requirements that must be fulfilled in order to prove, that the openETCS project deliverables are fit for theirs intended purpose and responds correctly to safety issues that was derived from the System (ERTMS) Safety Requirements Specification.
+Due to the particularity of this project and taking into account the goals of this project, it should be clarified in advance which requirements shall be fulfilled in order to be compliant with the CENELEC standard EN 50128:2011. The work was carried out and coordinated by AEbt and the result is this report. Hence, this report elicits requirements that must be fulfilled in order to prove, that the openETCS project deliverables are fit for theirs intended purpose and responds correctly to safety issues that was derived from the ERTMS System Safety Requirements Specification.
 
 \section{Creation of this report}
 \label{report}
@@ -375,7 +384,7 @@ The HW specification should include for example,
 
 \chapter{Summary}
 As task leader of the task D2.2 (according to \cite{FPP13}), AEbt has coordinated all the work. Basis, were the procedures listed in the section \ref{report} of this report. The result is a first set of requirements, which shall be fulfilled in order to assess the openETCS tools chain as T3 support tool and may be the openETCS application software as SIL4 software according to EN 50128:2011. \\\\Regarding the openETCS application software, it is not clear in the current version of the PCA \cite{PCA12} which software SIL it should have. However, we recommend to develop it as SIL 4 software according to EN 50128:2011, in order to provide a software or part of it as certifiable COTS software for a future use.\\\\
-The question whether "open proofs" is suitable for safety railway applications, is not the matter. It is more about the software safety process applied. In fact, the applied software safety process shall fulfill the requirements of the CENELEC standard EN 50128:2011 as well as security requirements. In this report, both have been addressed.
+Overall "open proofs" is suitable for safety railway applications as the approach allows to demonstrate a qualified and safe software development. It is more about the software safety process applied. In fact, the applied software safety process shall fulfill the requirements of the CENELEC standard EN 50128:2011 as well as security requirements. In this report, both have been addressed.
 In this document, reference was made to other standard; which however have not been addressed, see CENELEC EN 50159:2010 \cite{EN50159} and ARINC \cite{ARINC}.\\\\
 Related to the standard ARINC \cite{ARINC}, an analysis shall be performed, in order to show, how it can be helpful for this project. Regarding the standard EN 50159:2010 \cite{EN50159}, we also recommend to perform an analysis, in order to find out which requirements from this standard and based on the required software SIL of the openETCS application software, shall be implemented.
 
@@ -407,11 +416,13 @@ According to the Project Co-operation Agreement \cite{PCA12}, the openETCS tool 
 \subsection{How to read the tables used in this section}
 Tables used in this document consist of three columns.
 \begin{itemize}\itemsep=0pt
-  \item Column [1] lists the requirements from the CENELEC standard EN 50128:2011. But since the standard is protected by copyright, only the requirements identification numbers are recorded there. The same requirements identification number as defined in the EN 50128:2011 is used. Each requirement text should therefore be read in the standard using the requirements identification number recorded in column [1] as reference.\\
+  \item Column 1 lists the requirements from the CENELEC standard EN 50128:2011. But since the standard is protected by copyright, only the requirements identification numbers are recorded there. The same requirements identification number as defined in the EN 50128:2011 is used. Each requirement text should therefore be read in the standard using the requirements identification number recorded in column [1] as reference.\\
 In order to simplify the readability, some of the requirements of the standard were grouped, especially when they address the same subject; only few were left out, because they were not relevant for the tool development process.
-  \item In column [2], it is described how the various requirements can be fulfilled. Everywhere where possible, recommendations were formulated.
-  \item In column [3], documents that shall be created or provided are listed.
+  \item In column 2, it is described how the various requirements can be fulfilled. Everywhere where possible, recommendations were formulated.
+  \item In column 3, documents that shall be created or provided are listed.
 \end{itemize}
+
+\fxnote[draft]{[number] is already used for source references}
 
 
 \section{Requirements for tools in class T1}
@@ -610,7 +621,7 @@ The objective of this subclause is to ensure that all personnel who have respons
 
 \subsubsection{Personnel Competence regarding the development of tools in class T3}
 \begin{flushleft}
-The objective of this subclause is to ensure that all personnel who have responsibilities for thed evelopment of tools are competent to discharge those responsibilities by demonstrating the ability to perform relevant tasks correctly, efficiently and consistently to a high quality and under varying conditions.
+The objective of this subclause is to ensure that all personnel who have responsibilities for the development of tools are competent to discharge those responsibilities by demonstrating the ability to perform relevant tasks correctly, efficiently and consistently to a high quality and under varying conditions.
 \end{flushleft}
 {\footnotesize\sffamily\centering
 \begin{longtable}{|p{2cm}|p{9cm}|p{3cm}|}
@@ -1230,7 +1241,7 @@ The created tools software component design verification report shall implement 
 
 \subsubsection{Integration of the software source code of the developed tools}
 \begin{flushleft}
-The objective of this subclause is to carry out the software- and software/hardware integration od the developed tools and to demonstrate that the software of the developed tools and the hardware interact correctly to perform their intended functions.
+The objective of this subclause is to carry out the software- and software/hardware integration or the developed tools and to demonstrate that the software of the developed tools and the hardware interact correctly to perform their intended functions.
 \end{flushleft}
 {\footnotesize\sffamily\centering
 \begin{longtable}{|p{2cm}|p{9cm}|p{3cm}|}
@@ -1280,7 +1291,7 @@ The created tools software integration verification report shall implement requi
 \subsubsection{Validation of the software source code of the developed tools}
 \begin{flushleft}
  The objective of this subclause is to analyse and test the integrated software source code of the developed tools and hardware to ensure compliance with the software requirements specification with particular emphasis on the functional and safety aspects according to software SIL4 and to check whether it is fit for its
- \end{flushleft} intended application.
+ intended application. \end{flushleft}
 {\footnotesize\sffamily\centering
 \begin{longtable}{|p{2cm}|p{9cm}|p{3cm}|}
 \caption{Validation of the software source code of the developed tools (Subclause 7.7 according to EN 50128:2011)}\\
@@ -1324,7 +1335,7 @@ Tools for application data or algorithms are T3 tools and shall be developed acc
 \linebreak
 
 
-\subsection{deployement and maintenance (Clause 9 according to EN 50128:2011)}
+\subsection{Deployement and maintenance (Clause 9 according to EN 50128:2011)}
 \label{clause9}
 \subsubsection{Deployment of the developed tools}
 \begin{flushleft}
@@ -1356,6 +1367,9 @@ The created tool deployment verification report shall implement requirements fro
 \hline
 9.1.4.10 & Provide the evidence that the executable code is coded. 
 & See requirement 7.3.4.20.\\ 
+
+
+
 \hline
 9.1.4.11 and 9.1.4.12 & Create a tool tool deployment manual.
 
@@ -1364,7 +1378,7 @@ The created deployment manual shall implement the requirement of 9.1.4.12.
 \hline
 9.1.4.13 & Incremental deployment is one of the most important properties of agile methods such as Scrum.
 
-When using Scrum, it is highly recommended for SIL 4, that the software is designed to include facilities which assure that activation of incompatible versions of software components is excluded.
+When using Scrum, it is highly recommended for SIL 4, that the software is designed with certain protections which assure that incompatible versions of software components cannot be combined and activated.
 
 The design specification of the developed tool shall therefore implement this requirement.
 & See requirement 7.3.4.20.\\ 
@@ -1382,7 +1396,7 @@ The design specification of the developed tool shall therefore implement this re
 The created deployment record shall implement the requirement 9.1.4.18.
 & Tool deployment record.\\ 
 \hline
-9.1.4.19 & The traceability matrix shall implement this re-quirement.
+9.1.4.19 & The traceability matrix shall implement this requirement.
 & See requirement 6.5.4.14.\\ 
 \hline
 9.1.4.20 & The design specification of the developed tool shall implement this requirement.
@@ -1390,6 +1404,7 @@ The created deployment record shall implement the requirement 9.1.4.18.
 \hline
 \end{longtable}}
 
+\fxnote*[draft]{maybe better encrypted to make a clearer seperation between programm coding and security coding}{9.1.4.10 ... code is coded}
 
 \subsubsection{Maintenance of the developed tools}
 \begin{flushleft}
@@ -1447,12 +1462,13 @@ Therefore; the subsections below address the requirements for SIL 4 Software acc
 \subsection{How to read the tables used in this section}
 Tables used in this document consist of three columns.
 \begin{itemize}\itemsep=0pt
-  \item Column [1] lists the requirements from the CENELEC standard EN 50128:2011. But since the standard is protected by copyright, only the requirements identification numbers are recorded there. The same requirements identification number as defined in the EN 50128:2011 is used. Each requirement text should therefore be read in the standard using the requirements identification number recorded in column [1] as reference.
+  \item Column 1 lists the requirements from the CENELEC standard EN 50128:2011. But since the standard is protected by copyright, only the requirements identification numbers are recorded there. The same requirements identification number as defined in the EN 50128:2011 is used. Each requirement text should therefore be read in the standard using the requirements identification number recorded in column [1] as reference.
 In order to simplify the readability, some of the requirements of the standard were grouped, especially when they address the same subject; only few were left out, because they were not relevant for the development process of the openETCS application software..
-  \item In column [2], it is described how the various requirements can be fulfilled. Everywhere where possible, recommendations were formulated.
-  \item In column [3], documents that shall be created or provided are listed.
+  \item In column 2, it is described how the various requirements can be fulfilled. Everywhere where possible, recommendations were formulated.
+  \item In column 3, documents that shall be created or provided are listed.
 \end{itemize}
 
+\fxnote[draft]{[number] is already used for source references}
 
 \section{Software Safety Integrity Levels (Clause 4 according to EN 50128:2011)}
 \label{clause42}
@@ -1468,16 +1484,16 @@ In order to simplify the readability, some of the requirements of the standard w
 %\caption{Terms and definitions}
 \endfoot
 
-4.1 & Requirement (4.1) describes the allocation of software safety integrity levels to the openETCS appli-cation software in accordance with the CENELEC standards EN 50126 and EN 50129.
+4.1 & Requirement (4.1) describes the allocation of software safety integrity levels to the openETCS application software in accordance with the CENELEC standards EN 50126 and EN 50129.
 \linebreak
 \linebreak
-Neither a tool nor software can be assessed, without at least specifying the capabilities and boundary conditions to be fulfilled by the operating system and hardware. 
+Neither a tool nor software can be assessed without at least specifying the capabilities and boundary conditions to be fulfilled by the operating system and hardware. 
 \linebreak
 \linebreak
 Regarding the openETCS application software, we therefore recommend to perform a risk and hazard analysis, in order to specify the boundary conditions for both: operating system and hardware.
 & Boundary conditions for operating systems and hardware.\\ 
 \hline
-4.2 & In this document, we assume that the software safety integrity level of the openETCS application soft-ware is SIL4 according to EN 50128:2011.
+4.2 & In this document, we assume that the software safety integrity level of the openETCS application software is SIL4 according to EN 50128:2011.
 & - \\ 
 \hline
 \end{longtable}}
@@ -1501,7 +1517,7 @@ The objective of this subclause is to ensure that all personnel who have respons
 %\caption{Terms and definitions}
 \endfoot
 
-5.1.2.1 & EN ISO 9001 certification for each organisation involved in the development process of the openETCS software must be provided. & EN ISO 9001 certification.\\ 
+5.1.2.1 & EN ISO 9001 certification for each organisation involved in the development process of the openETCS software must be provided. & EN ISO 9001 compliance.\\ 
 \hline
 5.1.2.2,5.1.2.3, 5.1.2.9 to 5.1.2.14 & A software quality assurance plan shall be created at the beginning of the project. 
 
@@ -1554,7 +1570,7 @@ Participation in trainings shall also be recorded in this document.
 NOTE\linebreak
 The openETCS people competence matrix created in annex \ref{annexA}, can also be used here\\ 
 \hline
-5.2.2.3 and 5.2.2.4 & See requirement 5.1.2.1 & ISO 9001 certificate\\ 
+5.2.2.3 and 5.2.2.4 & See requirement 5.1.2.1 & ISO 9001 compliance\\ 
 \hline
 \end{longtable}}
 
@@ -1651,7 +1667,7 @@ Scrum does not care about dedicated roles for quality management or safety manag
 In fact, there is no specific process model required in the EN 50128:2011. But the standard requires certain activities and documentation with some quality according to the corresponding safety integrity level (SSIL). 
 
 The standard EN 50128:2011 also requires the consideration of iterative development (see requirement 5.3.2.2). Therefore, an iterative process model for developing safety relevant software or tools is important
-We recommend to perform an analysis to demon-strate that scrum meets all the objectives and requirements of the EN 50128:2011 (described in clause 6, 7 and 9)
+We recommend to perform an analysis to demonstrate that scrum meets all the objectives and requirements of the EN 50128:2011 (described in clause 6, 7 and 9)
 & Lifeycle cycle impact analysis report.
 \linebreak
 \linebreak
@@ -2368,7 +2384,7 @@ The test report can be written according to requirement 6.2.4.12.\\
 
 
 \subsection{Application Data validation}
-The validation of the application data of the openETCS software shall be carried outaccording to subclause \ref{ValSW}.
+The validation of the application data of the openETCS software shall be carried out according to subclause \ref{ValSW}.
 
 
 
@@ -2397,7 +2413,7 @@ Use the openETCS tool chain.\\
 \linebreak
 NOTE\linebreak
 The configuration management plan for application data shall be separated from the configuration management of the openETCS application software
-& openETCS Configuration management plan for applica-tion data.\\ 
+& openETCS Configuration management plan for application data.\\ 
 \hline
 \end{longtable}}
 
@@ -2456,7 +2472,7 @@ The objective of this subclause is to ensure that the openETCS software performs
 
 9.1.4.4 and 9.1.4.5 & Create a release note for the openETCS software.
 
-The created release note shall implement require-ments from 9.1.4.4 to 9.1.4.5.
+The created release note shall implement requirements from 9.1.4.4 to 9.1.4.5.
 & openETCS release note.\\ 
 \hline
 9.1.4.6 to 9.1.4.9 & Once the openETCS deployment manual has been created; it shall be verified.
@@ -2505,7 +2521,7 @@ The created openETCS software deployment rec-ord shall implement the requirement
 
 \subsection{openETCS Software maintenance}
 \begin{flushleft}
-The objective of this subclause is to ensure that the openETCS software performs as required, pre-serving the required software safety integrity level and dependability when making corrections, en-hancements or adaptations to the openETCS software itself. 
+The objective of this subclause is to ensure that the openETCS software performs as required, preserving the required software safety integrity level and dependability when making corrections, enhancements or adaptations to the openETCS software itself. 
 \end{flushleft}
 {\footnotesize\sffamily\centering
 \begin{longtable}{|p{2cm}|p{9cm}|p{3cm}|}
